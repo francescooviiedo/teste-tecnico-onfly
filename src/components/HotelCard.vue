@@ -2,13 +2,13 @@
   <div class="hotel-card">
     <div class="hotel-card__image-container">
       <q-img
-        :src="hotel.thumb || 'https://placehold.co/300x200?text=Hotel'"
+        :src="hotel.thumb || '/hotel-image-placeholder.png'"
         class="hotel-card__image"
         position="center"
       >
         <template v-slot:error>
           <img
-            src="https://placehold.co/300x200?text=Hotel"
+            :src="'/hotel-image-placeholder.png'"
             alt="Foto do hotel indisponível"
             class="hotel-card__placeholder"
           />
