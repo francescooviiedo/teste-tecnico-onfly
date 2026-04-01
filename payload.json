@@ -1,0 +1,4521 @@
+{
+    "hotels": [
+        {
+            "id": 1,
+            "name": "Hotel São Paulo Palace",
+            "stars": "5",
+            "totalPrice": 300000,
+            "dailyPrice": 270000,
+            "tax": 30000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "district": "Bela Vista",
+            "placeId": 1
+        },
+        {
+            "id": 2,
+            "name": "Pousada Paulista",
+            "stars": "3",
+            "totalPrice": 120000,
+            "dailyPrice": 108000,
+            "tax": 12000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "ROOM_SERVICE"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Vila Progredior",
+            "placeId": 1
+        },
+        {
+            "id": 3,
+            "name": "Hotel Paulista Center",
+            "stars": "4",
+            "totalPrice": 180000,
+            "dailyPrice": 162000,
+            "tax": 18000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "FITNESS_CENTER"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Bela Vista",
+            "placeId": 1
+        },
+        {
+            "id": 4,
+            "name": "Grand Hotel São Paulo",
+            "stars": "5",
+            "totalPrice": 350000,
+            "dailyPrice": 315000,
+            "tax": 35000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "district": "República",
+            "placeId": 1
+        },
+        {
+            "id": 5,
+            "name": "Hotel Center São Paulo",
+            "stars": "3",
+            "totalPrice": 90000,
+            "dailyPrice": 81000,
+            "tax": 9000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Centro",
+            "placeId": 1
+        },
+        {
+            "id": 6,
+            "name": "Hotel Augusta São Paulo",
+            "stars": "4",
+            "totalPrice": 160000,
+            "dailyPrice": 144000,
+            "tax": 16000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "FITNESS_CENTER"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Consolação",
+            "placeId": 1
+        },
+        {
+            "id": 7,
+            "name": "Hotel Premium São Paulo",
+            "stars": "5",
+            "totalPrice": 400000,
+            "dailyPrice": 360000,
+            "tax": 40000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "POOL",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "district": "Vila Progredior",
+            "placeId": 1
+        },
+        {
+            "id": 8,
+            "name": "Hotel São Paulo Inn",
+            "stars": "3",
+            "totalPrice": 100000,
+            "dailyPrice": 90000,
+            "tax": 10000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "ROOM_SERVICE"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Santa Cecília",
+            "placeId": 1
+        },
+        {
+            "id": 9,
+            "name": "Hotel Paulista Garden",
+            "stars": "4",
+            "totalPrice": 150000,
+            "dailyPrice": 135000,
+            "tax": 15000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "FITNESS_CENTER"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Vila Progredior",
+            "placeId": 1
+        },
+        {
+            "id": 10,
+            "name": "Hotel Paulista Suite",
+            "stars": "5",
+            "totalPrice": 500000,
+            "dailyPrice": 450000,
+            "tax": 50000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "POOL",
+                "RESTAURANT",
+                "FITNESS_CENTER"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "district": "Bela Vista",
+            "placeId": 1
+        },
+        {
+            "id": 11,
+            "name": "Hotel Central São Paulo",
+            "stars": "3",
+            "totalPrice": 120000,
+            "dailyPrice": 108000,
+            "tax": 12000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "ROOM_SERVICE"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Centro",
+            "placeId": 1
+        },
+        {
+            "id": 12,
+            "name": "Hotel Paulista Towers",
+            "stars": "4",
+            "totalPrice": 220000,
+            "dailyPrice": 198000,
+            "tax": 22000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Bela Vista",
+            "placeId": 1
+        },
+        {
+            "id": 13,
+            "name": "Hotel Ipanema São Paulo",
+            "stars": "4",
+            "totalPrice": 150000,
+            "dailyPrice": 135000,
+            "tax": 15000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "FITNESS_CENTER"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Vila Progredior",
+            "placeId": 1
+        },
+        {
+            "id": 14,
+            "name": "Hotel Premium Paulista",
+            "stars": "5",
+            "totalPrice": 500000,
+            "dailyPrice": 450000,
+            "tax": 50000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "district": "Bela Vista",
+            "placeId": 1
+        },
+        {
+            "id": 15,
+            "name": "Hotel Green São Paulo",
+            "stars": "4",
+            "totalPrice": 180000,
+            "dailyPrice": 162000,
+            "tax": 18000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "FITNESS_CENTER"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Vila Progredior",
+            "placeId": 1
+        },
+        {
+            "id": 1,
+            "name": "Hotel Copacabana Rio",
+            "stars": "5",
+            "totalPrice": 350000,
+            "dailyPrice": 315000,
+            "tax": 35000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "POOL",
+                "RESTAURANT",
+                "FITNESS_CENTER"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "district": "Copacabana",
+            "placeId": 2
+        },
+        {
+            "id": 2,
+            "name": "Hotel Ipanema Beach",
+            "stars": "4",
+            "totalPrice": 250000,
+            "dailyPrice": 225000,
+            "tax": 25000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Ipanema",
+            "placeId": 2
+        },
+        {
+            "id": 3,
+            "name": "Hotel Rio Palace",
+            "stars": "5",
+            "totalPrice": 450000,
+            "dailyPrice": 405000,
+            "tax": 45000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT",
+                "FITNESS_CENTER"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Copacabana",
+            "placeId": 2
+        },
+        {
+            "id": 4,
+            "name": "Hotel Leblon Rio",
+            "stars": "4",
+            "totalPrice": 320000,
+            "dailyPrice": 288000,
+            "tax": 32000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "POOL",
+                "ROOM_SERVICE"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "district": "Leblon",
+            "placeId": 2
+        },
+        {
+            "id": 5,
+            "name": "Hotel Barra Beach",
+            "stars": "3",
+            "totalPrice": 180000,
+            "dailyPrice": 162000,
+            "tax": 18000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Barra da Tijuca",
+            "placeId": 2
+        },
+        {
+            "id": 6,
+            "name": "Hotel Maracanã Rio",
+            "stars": "3",
+            "totalPrice": 130000,
+            "dailyPrice": 117000,
+            "tax": 13000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "ROOM_SERVICE"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Maracanã",
+            "placeId": 2
+        },
+        {
+            "id": 7,
+            "name": "Hotel Rio Design",
+            "stars": "4",
+            "totalPrice": 250000,
+            "dailyPrice": 225000,
+            "tax": 25000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "RESTAURANT",
+                "FITNESS_CENTER"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "district": "Centro",
+            "placeId": 2
+        },
+        {
+            "id": 8,
+            "name": "Hotel Flamengo Rio",
+            "stars": "3",
+            "totalPrice": 110000,
+            "dailyPrice": 99000,
+            "tax": 11000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Flamengo",
+            "placeId": 2
+        },
+        {
+            "id": 9,
+            "name": "Hotel Rio Suites",
+            "stars": "4",
+            "totalPrice": 300000,
+            "dailyPrice": 270000,
+            "tax": 30000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "POOL",
+                "PARKING"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Centro",
+            "placeId": 2
+        },
+        {
+            "id": 10,
+            "name": "Hotel Copacabana Palace",
+            "stars": "5",
+            "totalPrice": 600000,
+            "dailyPrice": 540000,
+            "tax": 60000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT",
+                "FITNESS_CENTER",
+                "POOL"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Copacabana",
+            "placeId": 2
+        },
+        {
+            "id": 11,
+            "name": "Hotel Santa Teresa",
+            "stars": "4",
+            "totalPrice": 280000,
+            "dailyPrice": 252000,
+            "tax": 28000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "RESTAURANT",
+                "STEAM_ROOM"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "district": "Santa Teresa",
+            "placeId": 2
+        },
+        {
+            "id": 1,
+            "name": "Hotel Belo Horizonte Plaza",
+            "stars": "4",
+            "totalPrice": 200000,
+            "dailyPrice": 180000,
+            "tax": 20000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "FITNESS_CENTER"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Centro",
+            "placeId": 3
+        },
+        {
+            "id": 2,
+            "name": "Hotel Pampulha",
+            "stars": "3",
+            "totalPrice": 180000,
+            "dailyPrice": 162000,
+            "tax": 18000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Pampulha",
+            "placeId": 3
+        },
+        {
+            "id": 3,
+            "name": "Hotel Mineiro",
+            "stars": "3",
+            "totalPrice": 150000,
+            "dailyPrice": 135000,
+            "tax": 15000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING"
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": false,
+            "district": "Centro",
+            "placeId": 3
+        },
+        {
+            "id": 4,
+            "name": "Hotel Savassi",
+            "stars": "4",
+            "totalPrice": 250000,
+            "dailyPrice": 225000,
+            "tax": 25000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Savassi",
+            "placeId": 3
+        },
+        {
+            "id": 5,
+            "name": "Hotel Continental",
+            "stars": "3",
+            "totalPrice": 170000,
+            "dailyPrice": 153000,
+            "tax": 17000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "district": "Centro",
+            "placeId": 3
+        },
+        {
+            "id": 6,
+            "name": "Hotel Belo Horizonte Palace",
+            "stars": "5",
+            "totalPrice": 400000,
+            "dailyPrice": 360000,
+            "tax": 40000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "POOL",
+                "FITNESS_CENTER",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Centro",
+            "placeId": 3
+        },
+        {
+            "id": 7,
+            "name": "Hotel Ouro Preto",
+            "stars": "5",
+            "totalPrice": 500000,
+            "dailyPrice": 450000,
+            "tax": 50000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "POOL",
+                "FITNESS_CENTER",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Funcionários",
+            "placeId": 3
+        },
+        {
+            "id": 8,
+            "name": "Hotel Horizonte Azul",
+            "stars": "4",
+            "totalPrice": 230000,
+            "dailyPrice": 207000,
+            "tax": 23000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT",
+                "ROOM_SERVICE"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Savassi",
+            "placeId": 3
+        },
+        {
+            "id": 9,
+            "name": "Hotel Estoril",
+            "stars": "3",
+            "totalPrice": 160000,
+            "dailyPrice": 144000,
+            "tax": 16000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "PET_FRIENDLY"
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": false,
+            "district": "Centro",
+            "placeId": 3
+        },
+        {
+            "id": 10,
+            "name": "Hotel Diamond",
+            "stars": "5",
+            "totalPrice": 600000,
+            "dailyPrice": 540000,
+            "tax": 60000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "FITNESS_CENTER",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Mangabeiras",
+            "placeId": 3
+        },
+        {
+            "id": 11,
+            "name": "Hotel Belo Horizonte Continental",
+            "stars": "4",
+            "totalPrice": 220000,
+            "dailyPrice": 198000,
+            "tax": 22000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Centro",
+            "placeId": 3
+        },
+        {
+            "id": 12,
+            "name": "Hotel Luxo Belo Horizonte",
+            "stars": "5",
+            "totalPrice": 700000,
+            "dailyPrice": 630000,
+            "tax": 70000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "STEAM_ROOM",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Centro",
+            "placeId": 3
+        },
+        {
+            "id": 1,
+            "name": "Hotel Bahia Palace",
+            "stars": "5",
+            "totalPrice": 500000,
+            "dailyPrice": 450000,
+            "tax": 50000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "FITNESS_CENTER",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Centro",
+            "placeId": 4
+        },
+        {
+            "id": 2,
+            "name": "Hotel Vereda Tropical",
+            "stars": "4",
+            "totalPrice": 350000,
+            "dailyPrice": 315000,
+            "tax": 35000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Barra",
+            "placeId": 4
+        },
+        {
+            "id": 3,
+            "name": "Hotel Pelourinho",
+            "stars": "4",
+            "totalPrice": 250000,
+            "dailyPrice": 225000,
+            "tax": 25000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Pelourinho",
+            "placeId": 4
+        },
+        {
+            "id": 4,
+            "name": "Hotel Tropical Salvador",
+            "stars": "5",
+            "totalPrice": 600000,
+            "dailyPrice": 540000,
+            "tax": 60000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Barra",
+            "placeId": 4
+        },
+        {
+            "id": 5,
+            "name": "Hotel Bahian Beach",
+            "stars": "4",
+            "totalPrice": 450000,
+            "dailyPrice": 405000,
+            "tax": 45000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Rio Vermelho",
+            "placeId": 4
+        },
+        {
+            "id": 6,
+            "name": "Hotel Solar do Pelourinho",
+            "stars": "3",
+            "totalPrice": 200000,
+            "dailyPrice": 180000,
+            "tax": 20000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": false,
+            "district": "Pelourinho",
+            "placeId": 4
+        },
+        {
+            "id": 7,
+            "name": "Hotel Bahia Marina",
+            "stars": "5",
+            "totalPrice": 700000,
+            "dailyPrice": 630000,
+            "tax": 70000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Salvador",
+            "placeId": 4
+        },
+        {
+            "id": 8,
+            "name": "Hotel Praia de Ondina",
+            "stars": "4",
+            "totalPrice": 420000,
+            "dailyPrice": 378000,
+            "tax": 42000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Ondina",
+            "placeId": 4
+        },
+        {
+            "id": 9,
+            "name": "Hotel Vista Mar",
+            "stars": "4",
+            "totalPrice": 380000,
+            "dailyPrice": 342000,
+            "tax": 38000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Barra",
+            "placeId": 4
+        },
+        {
+            "id": 10,
+            "name": "Hotel Marazul",
+            "stars": "3",
+            "totalPrice": 280000,
+            "dailyPrice": 252000,
+            "tax": 28000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": false,
+            "district": "Rio Vermelho",
+            "placeId": 4
+        },
+        {
+            "id": 11,
+            "name": "Hotel Pousada Tropical",
+            "stars": "3",
+            "totalPrice": 230000,
+            "dailyPrice": 207000,
+            "tax": 23000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Pelourinho",
+            "placeId": 4
+        },
+        {
+            "id": 12,
+            "name": "Hotel Costa Verde",
+            "stars": "4",
+            "totalPrice": 380000,
+            "dailyPrice": 342000,
+            "tax": 38000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Itapuã",
+            "placeId": 4
+        },
+        {
+            "id": 1,
+            "name": "Hotel Centro Curitiba",
+            "stars": "4",
+            "totalPrice": 350000,
+            "dailyPrice": 315000,
+            "tax": 35000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Centro",
+            "placeId": 5
+        },
+        {
+            "id": 2,
+            "name": "Hotel Belém Curitiba",
+            "stars": "4",
+            "totalPrice": 310000,
+            "dailyPrice": 279000,
+            "tax": 31000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Batel",
+            "placeId": 5
+        },
+        {
+            "id": 3,
+            "name": "Hotel Vila Rica Curitiba",
+            "stars": "3",
+            "totalPrice": 230000,
+            "dailyPrice": 207000,
+            "tax": 23000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": false,
+            "district": "Centro",
+            "placeId": 5
+        },
+        {
+            "id": 4,
+            "name": "Hotel Batel",
+            "stars": "5",
+            "totalPrice": 520000,
+            "dailyPrice": 468000,
+            "tax": 52000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Batel",
+            "placeId": 5
+        },
+        {
+            "id": 5,
+            "name": "Hotel Saint Michel",
+            "stars": "3",
+            "totalPrice": 250000,
+            "dailyPrice": 225000,
+            "tax": 25000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "district": "Centro",
+            "placeId": 5
+        },
+        {
+            "id": 6,
+            "name": "Hotel Bourbon Curitiba",
+            "stars": "4",
+            "totalPrice": 450000,
+            "dailyPrice": 405000,
+            "tax": 45000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Centro",
+            "placeId": 5
+        },
+        {
+            "id": 1,
+            "name": "Hotel Praia do Futuro",
+            "stars": "5",
+            "totalPrice": 500000,
+            "dailyPrice": 450000,
+            "tax": 50000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "POOL",
+                "RESTAURANT",
+                "PARKING"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Praia do Futuro",
+            "placeId": 6
+        },
+        {
+            "id": 2,
+            "name": "Hotel Fortaleza Palace",
+            "stars": "4",
+            "totalPrice": 340000,
+            "dailyPrice": 306000,
+            "tax": 34000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Centro",
+            "placeId": 6
+        },
+        {
+            "id": 3,
+            "name": "Hotel Dom Pedro",
+            "stars": "3",
+            "totalPrice": 220000,
+            "dailyPrice": 198000,
+            "tax": 22000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING"
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "district": "Centro",
+            "placeId": 6
+        },
+        {
+            "id": 4,
+            "name": "Hotel Ceará",
+            "stars": "4",
+            "totalPrice": 350000,
+            "dailyPrice": 315000,
+            "tax": 35000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Praia de Iracema",
+            "placeId": 6
+        },
+        {
+            "id": 5,
+            "name": "Hotel Beira Mar Fortaleza",
+            "stars": "3",
+            "totalPrice": 250000,
+            "dailyPrice": 225000,
+            "tax": 25000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING"
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "district": "Praia do Futuro",
+            "placeId": 6
+        },
+        {
+            "id": 6,
+            "name": "Hotel Jangadeiro",
+            "stars": "3",
+            "totalPrice": 220000,
+            "dailyPrice": 198000,
+            "tax": 22000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "district": "Centro",
+            "placeId": 6
+        },
+        {
+            "id": 1,
+            "name": "Hotel Boa Viagem",
+            "stars": "5",
+            "totalPrice": 600000,
+            "dailyPrice": 540000,
+            "tax": 60000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "RESTAURANT",
+                "BAR"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Boa Viagem",
+            "placeId": 8
+        },
+        {
+            "id": 2,
+            "name": "Hotel Marante",
+            "stars": "4",
+            "totalPrice": 450000,
+            "dailyPrice": 405000,
+            "tax": 45000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL",
+                "FITNESS_CENTER"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Boa Viagem",
+            "placeId": 8
+        },
+        {
+            "id": 3,
+            "name": "Hotel Recife Antigo",
+            "stars": "3",
+            "totalPrice": 300000,
+            "dailyPrice": 270000,
+            "tax": 30000,
+            "thumb": "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+            "amenities": [
+                "WI_FI",
+                "PARKING"
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "district": "Recife Antigo",
+            "placeId": 8
+        },
+        {
+            "id": 1,
+            "name": "Hotel Plaza Porto Alegre",
+            "stars": "4",
+            "totalPrice": 350000,
+            "dailyPrice": 315000,
+            "tax": 35000,
+            "thumb": "https://example.com/plaza-hotel.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Centro",
+            "placeId": 9
+        },
+        {
+            "id": 2,
+            "name": "Hotel Farrapos",
+            "stars": "3",
+            "totalPrice": 220000,
+            "dailyPrice": 198000,
+            "tax": 22000,
+            "thumb": "https://example.com/farrapos-hotel.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING"
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "district": "Cidade Baixa",
+            "placeId": 9
+        },
+        {
+            "id": 3,
+            "name": "Hotel San Marco",
+            "stars": "4",
+            "totalPrice": 480000,
+            "dailyPrice": 432000,
+            "tax": 48000,
+            "thumb": "https://example.com/sanmarco-hotel.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Centro Histórico",
+            "placeId": 9
+        },
+        {
+            "id": 4,
+            "name": "Hotel Continental Porto Alegre",
+            "stars": "3",
+            "totalPrice": 280000,
+            "dailyPrice": 252000,
+            "tax": 28000,
+            "thumb": "https://example.com/continental-hotel.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Centro",
+            "placeId": 9
+        },
+        {
+            "id": 1,
+            "name": "Hotel Nacional",
+            "stars": "5",
+            "totalPrice": 600000,
+            "dailyPrice": 540000,
+            "tax": 60000,
+            "thumb": "https://example.com/nacional-hotel.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT",
+                "POOL"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Plano Piloto",
+            "placeId": 10
+        },
+        {
+            "id": 2,
+            "name": "Hotel Brasilia Palace",
+            "stars": "4",
+            "totalPrice": 450000,
+            "dailyPrice": 405000,
+            "tax": 45000,
+            "thumb": "https://example.com/brasilia-palace-hotel.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "FITNESS_CENTER"
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "district": "Plano Piloto",
+            "placeId": 10
+        },
+        {
+            "id": 3,
+            "name": "Hotel St. Paul",
+            "stars": "3",
+            "totalPrice": 300000,
+            "dailyPrice": 270000,
+            "tax": 30000,
+            "thumb": "https://example.com/stpaul-hotel.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "district": "Asa Sul",
+            "placeId": 10
+        },
+        {
+            "id": 4,
+            "name": "Hotel e Restaurante Aline",
+            "stars": "2",
+            "totalPrice": 150000,
+            "dailyPrice": 135000,
+            "tax": 15000,
+            "thumb": "https://example.com/aline-hotel.jpg",
+            "amenities": [
+                "WI_FI"
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "district": "Asa Norte",
+            "placeId": 10
+        },
+        {
+            "id": 1,
+            "name": "Hotel Araguaia",
+            "stars": "3",
+            "totalPrice": 220000,
+            "dailyPrice": 198000,
+            "tax": 22000,
+            "thumb": "https://example.com/araguaia-hotel.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING"
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "district": "Centro",
+            "placeId": 11
+        },
+        {
+            "id": 2,
+            "name": "Hotel Vila Rica",
+            "stars": "4",
+            "totalPrice": 350000,
+            "dailyPrice": 315000,
+            "tax": 35000,
+            "thumb": "https://example.com/vilarica-hotel.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Setor Marista",
+            "placeId": 11
+        },
+        {
+            "id": 3,
+            "name": "Hotel Goiânia Palace",
+            "stars": "2",
+            "totalPrice": 150000,
+            "dailyPrice": 135000,
+            "tax": 15000,
+            "thumb": "https://example.com/goiania-palace.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING"
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "district": "Setor Central",
+            "placeId": 11
+        },
+        {
+            "id": 4,
+            "name": "Hotel Mercure Goiânia",
+            "stars": "4",
+            "totalPrice": 400000,
+            "dailyPrice": 360000,
+            "tax": 40000,
+            "thumb": "https://example.com/mercure-goiania.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "FITNESS_CENTER"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Setor Bueno",
+            "placeId": 11
+        },
+        {
+            "id": 1,
+            "name": "Hotel Beira Rio",
+            "stars": "4",
+            "totalPrice": 450000,
+            "dailyPrice": 405000,
+            "tax": 45000,
+            "thumb": "https://example.com/beira-rio.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT",
+                "POOL"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "São Brás",
+            "placeId": 12
+        },
+        {
+            "id": 2,
+            "name": "Hotel do Forte",
+            "stars": "5",
+            "totalPrice": 800000,
+            "dailyPrice": 720000,
+            "tax": 80000,
+            "thumb": "https://example.com/forte.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "FITNESS_CENTER",
+                "SPA"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Cidade Velha",
+            "placeId": 12
+        },
+        {
+            "id": 3,
+            "name": "Hotel Holiday Inn Belém",
+            "stars": "4",
+            "totalPrice": 600000,
+            "dailyPrice": 540000,
+            "tax": 60000,
+            "thumb": "https://example.com/holiday-inn.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Comércio",
+            "placeId": 12
+        },
+        {
+            "id": 4,
+            "name": "Hotel Ibis Belém",
+            "stars": "3",
+            "totalPrice": 280000,
+            "dailyPrice": 252000,
+            "tax": 28000,
+            "thumb": "https://example.com/ibis-belem.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Batista Campos",
+            "placeId": 12
+        },
+        {
+            "id": 5,
+            "name": "Hotel Regente Belém",
+            "stars": "4",
+            "totalPrice": 550000,
+            "dailyPrice": 495000,
+            "tax": 55000,
+            "thumb": "https://example.com/regente.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "RESTAURANT"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "district": "Nazaré",
+            "placeId": 12
+        },
+        {
+            "id": 6,
+            "name": "Hotel Praia Mar",
+            "stars": "5",
+            "totalPrice": 750000,
+            "dailyPrice": 675000,
+            "tax": 75000,
+            "thumb": "https://example.com/praia-mar.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "FITNESS_CENTER",
+                "POOL"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "São Brás",
+            "placeId": 12
+        },
+        {
+            "id": 7,
+            "name": "Hotel Softel Belém",
+            "stars": "3",
+            "totalPrice": 350000,
+            "dailyPrice": 315000,
+            "tax": 35000,
+            "thumb": "https://example.com/softel.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING"
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "district": "Fátima",
+            "placeId": 12
+        },
+        {
+            "id": 1,
+            "name": "Hotel Majestic",
+            "stars": "5",
+            "totalPrice": 950000,
+            "dailyPrice": 855000,
+            "tax": 95000,
+            "thumb": "https://example.com/majestic.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "FITNESS_CENTER",
+                "POOL"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Jurerê Internacional",
+            "placeId": 13
+        },
+        {
+            "id": 2,
+            "name": "Hotel Praia Mole",
+            "stars": "4",
+            "totalPrice": 500000,
+            "dailyPrice": 450000,
+            "tax": 50000,
+            "thumb": "https://example.com/praia-mole.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "POOL"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Barra da Lagoa",
+            "placeId": 13
+        },
+        {
+            "id": 3,
+            "name": "Hotel Costa Norte",
+            "stars": "4",
+            "totalPrice": 480000,
+            "dailyPrice": 432000,
+            "tax": 48000,
+            "thumb": "https://example.com/costa-norte.jpg",
+            "amenities": [
+                "WI_FI",
+                "PARKING",
+                "FITNESS_CENTER"
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Canasvieiras",
+            "placeId": 13
+        },
+        {
+            "id": 1,
+            "name": "Hotel Maceió Praia",
+            "stars": "4",
+            "totalPrice": 350000,
+            "dailyPrice": 315000,
+            "tax": 35000,
+            "thumb": "https://example.com/maceio-1.jpg",
+            "amenities": [],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Jatiúca",
+            "placeId": 15
+        },
+        {
+            "id": 2,
+            "name": "Hotel Pajuçara",
+            "stars": "3",
+            "totalPrice": 250000,
+            "dailyPrice": 225000,
+            "tax": 25000,
+            "thumb": "https://example.com/pajucara-1.jpg",
+            "amenities": [],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Pajuçara",
+            "placeId": 15
+        },
+        {
+            "id": 3,
+            "name": "Pousada Maceió",
+            "stars": "2",
+            "totalPrice": 180000,
+            "dailyPrice": 162000,
+            "tax": 18000,
+            "thumb": "https://example.com/pousada-maceio.jpg",
+            "amenities": [],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "district": "Barra de São Miguel",
+            "placeId": 15
+        },
+        {
+            "id": 4,
+            "name": "Maceió Hotel & Resort",
+            "stars": "5",
+            "totalPrice": 1000000,
+            "dailyPrice": 900000,
+            "tax": 100000,
+            "thumb": "https://example.com/maceio-resort.jpg",
+            "amenities": [],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Frances",
+            "placeId": 15
+        },
+        {
+            "id": 1,
+            "name": "Hotel São Luís Praia",
+            "stars": "4",
+            "totalPrice": 320000,
+            "dailyPrice": 288000,
+            "tax": 32000,
+            "thumb": "https://example.com/sao-luis-praia.jpg",
+            "amenities": [],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Calhau",
+            "placeId": 16
+        },
+        {
+            "id": 2,
+            "name": "Pousada São Luís",
+            "stars": "3",
+            "totalPrice": 220000,
+            "dailyPrice": 198000,
+            "tax": 22000,
+            "thumb": "https://example.com/pousada-sao-luis.jpg",
+            "amenities": [],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Centro",
+            "placeId": 16
+        },
+        {
+            "id": 3,
+            "name": "São Luís Hotel",
+            "stars": "2",
+            "totalPrice": 150000,
+            "dailyPrice": 135000,
+            "tax": 15000,
+            "thumb": "https://example.com/sao-luis-hotel.jpg",
+            "amenities": [],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "district": "Centro Histórico",
+            "placeId": 16
+        },
+        {
+            "id": 4,
+            "name": "Hotel Ilha",
+            "stars": "5",
+            "totalPrice": 600000,
+            "dailyPrice": 540000,
+            "tax": 60000,
+            "thumb": "https://example.com/hotel-ilha.jpg",
+            "amenities": [],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "district": "Litorânea",
+            "placeId": 16
+        }
+    ],
+    "hotels_details": [
+        {
+            "id": 1,
+            "name": "Hotel São Paulo Palace",
+            "description": "Hotel moderno e sofisticado, localizado no centro de São Paulo, ideal para negócios e lazer.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "fullAddress": "Avenida Paulista, 1000 - Bela Vista",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Pousada Paulista",
+            "description": "Pousada aconchegante no coração de São Paulo, ideal para quem busca conforto e tranquilidade.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "ROOM_SERVICE",
+                    "label": "Serviço de Quarto"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua dos Três Irmãos, 250 - Vila Progredior",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Hotel Paulista Center",
+            "description": "Localizado na Avenida Paulista, oferece fácil acesso aos principais pontos turísticos de São Paulo.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Paulista, 1500 - Bela Vista",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Grand Hotel São Paulo",
+            "description": "Luxuoso hotel com spa, restaurante e piscina, localizado na região central de São Paulo.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "fullAddress": "Rua do Arouche, 300 - República",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_12.JPG"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Hotel Center São Paulo",
+            "description": "Hotel confortável e acessível, localizado próximo ao centro comercial de São Paulo.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua São Bento, 500 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Hotel Augusta São Paulo",
+            "description": "Hotel tradicional em São Paulo, localizado perto de atrações turísticas e opções de entretenimento.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua Augusta, 1200 - Consolação",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Hotel Premium São Paulo",
+            "description": "Hotel de luxo com piscina e restaurante, ideal para quem deseja conforto e sofisticação.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "fullAddress": "Rua dos Três Irmãos, 350 - Vila Progredior",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Hotel São Paulo Inn",
+            "description": "Ideal para quem busca uma hospedagem confortável e tranquila em São Paulo.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "ROOM_SERVICE",
+                    "label": "Serviço de Quarto"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua São João, 800 - Santa Cecília",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Hotel Paulista Garden",
+            "description": "Hotel charmoso com um ambiente tranquilo, localizado próximo à Avenida Paulista.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua dos Três Irmãos, 220 - Vila Progredior",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Hotel Paulista Suite",
+            "description": "Hotel sofisticado com opções de suites luxuosas e excelente localização na Avenida Paulista.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "fullAddress": "Avenida Paulista, 1500 - Bela Vista",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_12.JPG"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Hotel Central São Paulo",
+            "description": "Hotel moderno e acessível, perfeito para quem visita São Paulo para negócios ou turismo.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "ROOM_SERVICE",
+                    "label": "Serviço de Quarto"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua da Consolação, 700 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Hotel Paulista Towers",
+            "description": "Hotel moderno, com vista para a cidade e fácil acesso aos principais centros comerciais.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Paulista, 1800 - Bela Vista",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Hotel Ipanema São Paulo",
+            "description": "Um hotel elegante, com excelente atendimento, localizado no coração da cidade.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua dos Três Irmãos, 300 - Vila Progredior",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Hotel Premium Paulista",
+            "description": "Hotel de luxo, situado no centro de São Paulo, com serviços exclusivos e alta qualidade.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "fullAddress": "Avenida Paulista, 2000 - Bela Vista",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Hotel Green São Paulo",
+            "description": "Hotel sustentável com foco em práticas ecológicas e serviços modernos.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua dos Três Irmãos, 250 - Vila Progredior",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Hotel Copacabana Rio",
+            "description": "Situado em frente à famosa Praia de Copacabana, o Hotel oferece uma vista deslumbrante e comodidades de luxo.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "fullAddress": "Avenida Atlântica, 2000 - Copacabana",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_12.JPG"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Hotel Ipanema Beach",
+            "description": "Com uma localização privilegiada, o Hotel Ipanema Beach oferece conforto e serviços de alta qualidade para todos os hóspedes.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua Barão da Torre, 400 - Ipanema",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Hotel Rio Palace",
+            "description": "Hotel de luxo no coração do Rio de Janeiro, oferecendo acesso fácil às praias e aos pontos turísticos da cidade.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Atlântica, 1900 - Copacabana",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Hotel Leblon Rio",
+            "description": "Situado no bairro nobre de Leblon, o Hotel oferece um ambiente sofisticado com vista para o mar.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "ROOM_SERVICE",
+                    "label": "Serviço de Quarto"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "fullAddress": "Rua General Artigas, 400 - Leblon",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Hotel Barra Beach",
+            "description": "Com acesso direto à Praia da Barra, o Hotel oferece infraestrutura de lazer e relaxamento.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida do Pepê, 500 - Barra da Tijuca",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Hotel Maracanã Rio",
+            "description": "Hotel próximo ao estádio do Maracanã, ideal para quem vem para eventos esportivos ou culturais no Rio.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "ROOM_SERVICE",
+                    "label": "Serviço de Quarto"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua Mata Machado, 100 - Maracanã",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Hotel Rio Design",
+            "description": "Com design contemporâneo, o Hotel Rio Design é ideal para quem busca conforto e sofisticação.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "fullAddress": "Avenida Rio Branco, 220 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Hotel Flamengo Rio",
+            "description": "Próximo ao famoso bairro do Flamengo, este hotel é ideal para quem deseja explorar a zona sul do Rio.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua General Polidoro, 150 - Flamengo",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Hotel Rio Suites",
+            "description": "Localizado no centro do Rio, com suítes espaçosas e uma vista incrível da cidade.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Rio Branco, 500 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Hotel Copacabana Palace",
+            "description": "Um dos hotéis mais emblemáticos do Rio de Janeiro, oferecendo um serviço luxuoso e uma localização privilegiada.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Atlântica, 1702 - Copacabana",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_12.JPG"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Hotel Santa Teresa",
+            "description": "Com um estilo artístico único, o Hotel Santa Teresa oferece uma experiência encantadora no Rio de Janeiro.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                },
+                {
+                    "key": "STEAM_ROOM",
+                    "label": "Sauna"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "fullAddress": "Rua Almirante Alexandrino, 660 - Santa Teresa",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Hotel Belo Horizonte Plaza",
+            "description": "Com localização privilegiada, o Hotel Belo Horizonte Plaza oferece conforto e praticidade para os seus hóspedes.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Afonso Pena, 1000 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Hotel Pampulha",
+            "description": "Situado na região da Pampulha, este hotel oferece um ambiente tranquilo e com acesso fácil às principais atrações turísticas.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua Professor Mário Werneck, 800 - Pampulha",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Hotel Mineiro",
+            "description": "Com um toque acolhedor e um excelente custo-benefício, o Hotel Mineiro é perfeito para quem busca praticidade.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": false,
+            "fullAddress": "Rua da Bahia, 1500 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Hotel Savassi",
+            "description": "Localizado na área nobre de Belo Horizonte, o Hotel Savassi é ideal para quem deseja um ambiente confortável e acessível.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua Paraíba, 400 - Savassi",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Hotel Continental",
+            "description": "Com excelente localização e um ambiente acolhedor, o Hotel Continental é perfeito para quem busca um preço acessível.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "fullAddress": "Avenida do Contorno, 3000 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Hotel Belo Horizonte Palace",
+            "description": "Localizado na região central, o Hotel Belo Horizonte Palace oferece um excelente atendimento e opções de lazer para toda a família.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida do Contorno, 3500 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Hotel Ouro Preto",
+            "description": "Com um ambiente elegante e sofisticado, o Hotel Ouro Preto é uma ótima opção para quem deseja uma estadia luxuosa em Belo Horizonte.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua Cláudio Manoel, 500 - Funcionários",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Hotel Horizonte Azul",
+            "description": "Hotel moderno com ótima localização, ideal para quem busca conforto e praticidade, perto das principais atrações turísticas.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                },
+                {
+                    "key": "ROOM_SERVICE",
+                    "label": "Serviço de Quarto"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Brasil, 1800 - Savassi",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Hotel Estoril",
+            "description": "Hotel tradicional e acolhedor no coração de Belo Horizonte, perfeito para quem busca uma estadia tranquila com ótimos serviços.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "PET_FRIENDLY",
+                    "label": "Pet Friendly"
+                }
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": false,
+            "fullAddress": "Rua da Paz, 1100 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Hotel Diamond",
+            "description": "Hotel de luxo com serviços exclusivos e uma vista incrível da cidade, perfeito para uma experiência inesquecível em Belo Horizonte.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Raja Gabaglia, 2300 - Mangabeiras",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Hotel Belo Horizonte Continental",
+            "description": "Com localização estratégica e preços acessíveis, o Hotel Belo Horizonte Continental é uma excelente opção para quem viaja a negócios ou lazer.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua dos Três Irmãos, 500 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Hotel Luxo Belo Horizonte",
+            "description": "Hotel de luxo com design moderno, serviços exclusivos e localização privilegiada na capital mineira, ideal para turistas exigentes.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "STEAM_ROOM",
+                    "label": "Sauna"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida das Américas, 4200 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Hotel Bahia Palace",
+            "description": "Hotel sofisticado em Salvador, com uma vista incrível da cidade e localização central, ideal para quem deseja explorar a cultura baiana.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Sete de Setembro, 500 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Hotel Vereda Tropical",
+            "description": "Hotel aconchegante e tranquilo em Salvador, com opções de lazer e localização privilegiada perto das praias e do centro da cidade.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua das Pedras, 320 - Barra",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Hotel Pelourinho",
+            "description": "Situado no coração do Pelourinho, o hotel oferece uma experiência única, com ambientes históricos e serviços de qualidade.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua do Passo, 120 - Pelourinho",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Hotel Tropical Salvador",
+            "description": "Com localização privilegiada, o Hotel Tropical oferece uma estadia luxuosa e confortável com acesso fácil às praias de Salvador.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Oceanica, 2200 - Barra",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Hotel Bahian Beach",
+            "description": "Hotel de praia com infraestrutura completa para quem busca descanso e lazer à beira-mar, com ótimas opções de entretenimento.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida da Praia, 1500 - Rio Vermelho",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Hotel Solar do Pelourinho",
+            "description": "Hotel histórico e charmoso, localizado no Pelourinho, com serviços de qualidade e uma verdadeira imersão na cultura baiana.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": false,
+            "fullAddress": "Rua do Carmo, 50 - Pelourinho",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Hotel Bahia Marina",
+            "description": "Hotel de luxo com vista para o mar e serviços exclusivos, ideal para quem busca uma estadia de alto padrão em Salvador.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida da Orla, 300 - Salvador",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Hotel Praia de Ondina",
+            "description": "Acomodações confortáveis e modernas com vista para o mar, perto das praias mais famosas de Salvador.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Oceânica, 800 - Ondina",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Hotel Vista Mar",
+            "description": "Com vista deslumbrante para o mar, o Hotel Vista Mar oferece um ambiente acolhedor e serviços de qualidade para seus hóspedes.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida do Farol da Barra, 450 - Barra",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Hotel Marazul",
+            "description": "Com localização excelente para quem deseja desfrutar das belas praias de Salvador, o Hotel Marazul oferece qualidade e conforto.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": false,
+            "fullAddress": "Rua do Sossego, 200 - Rio Vermelho",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Hotel Pousada Tropical",
+            "description": "Pousada charmosa, ideal para quem busca tranquilidade, localizada em Salvador, próxima às principais atrações turísticas.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua da Alegria, 190 - Pelourinho",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Hotel Costa Verde",
+            "description": "Hotel localizado próximo à praia, com uma excelente estrutura para lazer e entretenimento.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida dos Navegantes, 700 - Itapuã",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Hotel Centro Curitiba",
+            "description": "Hotel moderno e central, ideal para quem visita Curitiba a trabalho ou lazer.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua XV de Novembro, 200 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Hotel Belém Curitiba",
+            "description": "Hotel com localização privilegiada, próximo ao Parque Barigui e ao Centro Cívico de Curitiba.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua João Negrão, 123 - Batel",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Hotel Vila Rica Curitiba",
+            "description": "Um hotel charmoso e aconchegante, ideal para viagens de turismo e negócios em Curitiba.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": false,
+            "fullAddress": "Rua Almirante Tamandaré, 150 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Hotel Batel",
+            "description": "Hotel elegante no Batel, um dos bairros mais sofisticados de Curitiba, perto de ótimos restaurantes e shoppings.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua General Carneiro, 800 - Batel",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Hotel Saint Michel",
+            "description": "Um charmoso hotel no coração de Curitiba, com um toque francês e ambiente acolhedor.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "fullAddress": "Rua Visconde do Rio Branco, 370 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Hotel Bourbon Curitiba",
+            "description": "Com a qualidade Bourbon, este hotel oferece serviços de excelência e ótima localização em Curitiba.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua Alvaro Alvim, 470 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Hotel Praia do Futuro",
+            "description": "Hotel de frente para a praia, com acomodações modernas e serviços exclusivos.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Beira Mar, 2000 - Praia do Futuro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Hotel Fortaleza Palace",
+            "description": "Hospede-se no coração de Fortaleza, com um atendimento de primeira e localização estratégica.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua Senador Pompeu, 550 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Hotel Dom Pedro",
+            "description": "Hotel histórico com excelente atendimento, em uma localização privilegiada de Fortaleza.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua Nogueira Acioli, 400 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Hotel Ceará",
+            "description": "Hotel tradicional de Fortaleza, conhecido por sua hospitalidade e serviços de qualidade.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Almirante Barroso, 500 - Praia de Iracema",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Hotel Beira Mar Fortaleza",
+            "description": "Conforto e praticidade à beira-mar, com ótimas opções de lazer e gastronomia.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Beira Mar, 3000 - Praia do Futuro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Hotel Jangadeiro",
+            "description": "Em ótima localização e com infraestrutura completa, o Hotel Jangadeiro é ideal para viagens em Fortaleza.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "fullAddress": "Rua Osvaldo Cruz, 500 - Centro",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Hotel Boa Viagem",
+            "description": "Localizado na Praia de Boa Viagem, oferece fácil acesso à orla e ao centro de Recife, com acomodações modernas e de alto padrão.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                },
+                {
+                    "key": "BAR",
+                    "label": "Bar"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Boa Viagem, 1000 - Boa Viagem",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Hotel Marante",
+            "description": "Conforto e conveniência, próximo à Praia de Boa Viagem, oferecendo ótima infraestrutura e serviços.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Marechal Mascarenhas de Moraes, 400 - Boa Viagem",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Hotel Recife Antigo",
+            "description": "Localizado no bairro histórico de Recife, perfeito para quem quer explorar o charme da cidade.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua do Imperador, 150 - Recife Antigo",
+            "images": [
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_10.JPG",
+                "https://s3.amazonaws.com/e-htl/uploads/hotels/10415/10415_11.JPG"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Hotel Plaza Porto Alegre",
+            "description": "Localizado no centro de Porto Alegre, oferece fácil acesso aos principais pontos turísticos e áreas comerciais.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Borges de Medeiros, 700 - Centro",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Hotel Farrapos",
+            "description": "Hotel simples e acolhedor, ideal para quem busca conforto e baixo custo na cidade.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua dos Farrapos, 500 - Cidade Baixa",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Hotel San Marco",
+            "description": "Acomodações modernas e bem localizadas, com ótimas opções de lazer e serviços.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua Coronel Genuíno, 100 - Centro Histórico",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Hotel Continental Porto Alegre",
+            "description": "Com excelente localização, o Hotel Continental é perfeito para quem precisa de praticidade e conforto em Porto Alegre.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua 7 de Setembro, 1000 - Centro",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Hotel Nacional",
+            "description": "Luxuoso e bem localizado, próximo ao centro de Brasília, com diversas opções de lazer.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "SHTN Trecho 1, 100 - Plano Piloto",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Hotel Brasilia Palace",
+            "description": "Com um estilo único e sofisticado, o Brasilia Palace oferece acomodações com vista para a cidade.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                }
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "fullAddress": "Setor Hoteleiro Sul, 400 - Plano Piloto",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Hotel St. Paul",
+            "description": "Excelente localização e infraestrutura com opções de lazer e gastronomia para os hóspedes.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "fullAddress": "SCS QD 1 Bloco I, 30 - Asa Sul",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Hotel e Restaurante Aline",
+            "description": "Hotel econômico, ideal para quem busca conforto e praticidade em Brasília.",
+            "stars": "2",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                }
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "fullAddress": "SCLRN 704 Bloco E, 45 - Asa Norte",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Hotel Araguaia",
+            "description": "Localizado no centro de Goiânia, o Hotel Araguaia oferece acomodações práticas e confortáveis.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Goiás, 800 - Centro",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Hotel Vila Rica",
+            "description": "Com boa localização e ótimas opções de lazer, o Hotel Vila Rica é ideal para quem visita Goiânia a negócios ou lazer.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua 1.303, 15 - Setor Marista",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Hotel Goiânia Palace",
+            "description": "Com um ótimo custo-benefício e localização central, o Goiânia Palace oferece comodidades práticas para viajantes.",
+            "stars": "2",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua 13 de Maio, 450 - Setor Central",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Hotel Mercure Goiânia",
+            "description": "Localizado em um dos bairros mais nobres de Goiânia, o Mercure oferece uma excelente experiência de hospedagem.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida T-3, 50 - Setor Bueno",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Hotel Beira Rio",
+            "description": "Hotel moderno com vista para o rio Guamá, oferece excelente localização e comodidades.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Presidente Vargas, 500 - São Brás, Belém",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Hotel do Forte",
+            "description": "Com arquitetura colonial e localização privilegiada, o Forte é uma excelente opção de hospedagem em Belém.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                },
+                {
+                    "key": "SPA",
+                    "label": "Spa"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua São João, 120 - Cidade Velha, Belém",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Hotel Holiday Inn Belém",
+            "description": "Hotel confortável e moderno, com fácil acesso ao centro comercial de Belém.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Almirante Barroso, 850 - Comércio, Belém",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Hotel Ibis Belém",
+            "description": "Hotel econômico com quartos modernos e localização central.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Gentil Bittencourt, 1100 - Batista Campos, Belém",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Hotel Regente Belém",
+            "description": "Hotel tradicional com localização central, perfeito para negócios ou lazer.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "RESTAURANT",
+                    "label": "Restaurante"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": false,
+            "fullAddress": "Avenida Nazaré, 1500 - Nazaré, Belém",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Hotel Praia Mar",
+            "description": "Ideal para quem busca uma experiência de luxo em Belém, com opções de lazer e restaurantes de alta qualidade.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Presidente Vargas, 200 - São Brás, Belém",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Hotel Softel Belém",
+            "description": "Conforto e praticidade no coração de Belém, próximo aos centros comerciais.",
+            "stars": "3",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                }
+            ],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua Marquês de Herval, 750 - Fátima, Belém",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Hotel Majestic",
+            "description": "Hotel de luxo com vista para a praia de Jurerê, perfeito para quem busca conforto e requinte.",
+            "stars": "5",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua das Acácias, 200 - Jurerê Internacional, Florianópolis",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Hotel Praia Mole",
+            "description": "Localizado perto da famosa Praia Mole, oferece conforto e fácil acesso às atrações locais.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "POOL",
+                    "label": "Piscina"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua Mole, 100 - Barra da Lagoa, Florianópolis",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Hotel Costa Norte",
+            "description": "Com uma excelente localização, o Costa Norte é ideal para quem quer praticidade e conforto.",
+            "stars": "4",
+            "amenities": [
+                {
+                    "key": "WI_FI",
+                    "label": "Wi-Fi"
+                },
+                {
+                    "key": "PARKING",
+                    "label": "Estacionamento"
+                },
+                {
+                    "key": "FITNESS_CENTER",
+                    "label": "Academia"
+                }
+            ],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Jornalista Rubens de Arruda Ramos, 1200 - Canasvieiras, Florianópolis",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Hotel Maceió Praia",
+            "description": "Hotel moderno próximo às praias de Maceió, oferecendo conforto e praticidade.",
+            "stars": "4",
+            "amenities": [],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Álvaro Otacílio, 1000 - Jatiúca, Maceió",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Hotel Pajuçara",
+            "description": "Conforto e tranquilidade com vista para a Praia de Pajuçara.",
+            "stars": "3",
+            "amenities": [],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua do Sol, 500 - Pajuçara, Maceió",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Pousada Maceió",
+            "description": "Pousada charmosa perto da Praia do Francês, com atmosfera relaxante.",
+            "stars": "2",
+            "amenities": [],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Dona Constância, 1500 - Barra de São Miguel, Maceió",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Maceió Hotel & Resort",
+            "description": "Resort familiar com opções de lazer para todas as idades, localizado perto da praia.",
+            "stars": "5",
+            "amenities": [],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua das Acácias, 400 - Frances, Maceió",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Hotel São Luís Praia",
+            "description": "Hotel confortável à beira da praia, com acesso fácil aos principais pontos turísticos.",
+            "stars": "4",
+            "amenities": [],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Litorânea, 1500 - Calhau, São Luís",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Pousada São Luís",
+            "description": "Pousada simples, mas aconchegante, perto das atrações culturais da cidade.",
+            "stars": "3",
+            "amenities": [],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua do Sol, 800 - Centro, São Luís",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "São Luís Hotel",
+            "description": "Localizado no centro de São Luís, com ótimo custo-benefício e boa infraestrutura.",
+            "stars": "2",
+            "amenities": [],
+            "hasBreakFast": false,
+            "hasRefundableRoom": true,
+            "fullAddress": "Avenida Beira Mar, 100 - Centro Histórico, São Luís",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Hotel Ilha",
+            "description": "Com localização privilegiada, o hotel oferece acesso rápido a restaurantes e pontos turísticos.",
+            "stars": "5",
+            "amenities": [],
+            "hasBreakFast": true,
+            "hasRefundableRoom": true,
+            "fullAddress": "Rua da Praia, 200 - Litorânea, São Luís",
+            "images": [
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436572.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436573.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436574.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436575.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436576.jpg",
+                "https://i.t4w.mobi/h/BR/1022052/566290/566290_7242Property436577.jpg"
+            ]
+        }
+    ],
+    "cities": [
+        {
+            "name": "São Paulo",
+            "state": {
+                "name": "São Paulo",
+                "shortname": "SP"
+            },
+            "placeId": 1
+        },
+        {
+            "name": "Rio de Janeiro",
+            "state": {
+                "name": "Rio de Janeiro",
+                "shortname": "RJ"
+            },
+            "placeId": 2
+        },
+        {
+            "name": "Belo Horizonte",
+            "state": {
+                "name": "Minas Gerais",
+                "shortname": "MG"
+            },
+            "placeId": 3
+        },
+        {
+            "name": "Salvador",
+            "state": {
+                "name": "Bahia",
+                "shortname": "BA"
+            },
+            "placeId": 4
+        },
+        {
+            "name": "Curitiba",
+            "state": {
+                "name": "Paraná",
+                "shortname": "PR"
+            },
+            "placeId": 5
+        },
+        {
+            "name": "Fortaleza",
+            "state": {
+                "name": "Ceará",
+                "shortname": "CE"
+            },
+            "placeId": 6
+        },
+        {
+            "name": "Manaus",
+            "state": {
+                "name": "Amazonas",
+                "shortname": "AM"
+            },
+            "placeId": 7
+        },
+        {
+            "name": "Recife",
+            "state": {
+                "name": "Pernambuco",
+                "shortname": "PE"
+            },
+            "placeId": 8
+        },
+        {
+            "name": "Porto Alegre",
+            "state": {
+                "name": "Rio Grande do Sul",
+                "shortname": "RS"
+            },
+            "placeId": 9
+        },
+        {
+            "name": "Brasília",
+            "state": {
+                "name": "Distrito Federal",
+                "shortname": "DF"
+            },
+            "placeId": 10
+        },
+        {
+            "name": "Goiânia",
+            "state": {
+                "name": "Goiás",
+                "shortname": "GO"
+            },
+            "placeId": 11
+        },
+        {
+            "name": "Belém",
+            "state": {
+                "name": "Pará",
+                "shortname": "PA"
+            },
+            "placeId": 12
+        },
+        {
+            "name": "Florianópolis",
+            "state": {
+                "name": "Santa Catarina",
+                "shortname": "SC"
+            },
+            "placeId": 13
+        },
+        {
+            "name": "Campo Grande",
+            "state": {
+                "name": "Mato Grosso do Sul",
+                "shortname": "MS"
+            },
+            "placeId": 14
+        },
+        {
+            "name": "Maceió",
+            "state": {
+                "name": "Alagoas",
+                "shortname": "AL"
+            },
+            "placeId": 15
+        },
+        {
+            "name": "São Luís",
+            "state": {
+                "name": "Maranhão",
+                "shortname": "MA"
+            },
+            "placeId": 16
+        },
+        {
+            "name": "Aracaju",
+            "state": {
+                "name": "Sergipe",
+                "shortname": "SE"
+            },
+            "placeId": 17
+        },
+        {
+            "name": "Natal",
+            "state": {
+                "name": "Rio Grande do Norte",
+                "shortname": "RN"
+            },
+            "placeId": 18
+        },
+        {
+            "name": "João Pessoa",
+            "state": {
+                "name": "Paraíba",
+                "shortname": "PB"
+            },
+            "placeId": 19
+        },
+        {
+            "name": "Cuiabá",
+            "state": {
+                "name": "Mato Grosso",
+                "shortname": "MT"
+            },
+            "placeId": 20
+        }
+    ]
+}

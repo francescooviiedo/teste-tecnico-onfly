@@ -1,0 +1,70 @@
+{
+  "name": "teste-onfly",
+  "version": "0.0.1",
+  "description": "A Quasar Project",
+  "productName": "Quasar App",
+  "author": "francesco.oviedo <francesco.oviedo@defensoria.mg.def.br>",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "lint": "eslint -c ./eslint.config.js \"./src*/**/*.{ts,js,cjs,mjs,vue}\"",
+    "format": "prettier --write \"**/*.{js,ts,vue,scss,html,md,json}\" --ignore-path .gitignore",
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "dev": "quasar dev",
+    "build": "quasar build",
+    "postinstall": "quasar prepare",
+    "json-server": "json-server --watch payload.json --port 3001",
+    "dev:all": "concurrently \"bun run dev\" \"bun run json-server\"",
+    "docker:build": "docker build -t teste-onfly .",
+    "docker:run": "docker run -p 9000:9000 -p 3001:3001 teste-onfly",
+    "docker:all": "bun run docker:build && bun run docker:run"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "pinia": "^3.0.1",
+    "@quasar/extras": "^1.16.4",
+    "quasar": "^2.16.0",
+    "vue": "^3.5.22",
+    "vue-router": "^5.0.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.4",
+    "@pinia/testing": "^1.0.3",
+    "@quasar/app-vite": "^2.5.1",
+    "@types/node": "^22.19.11",
+    "@vitejs/plugin-vue-jsx": "^5.1.5",
+    "@vitest/coverage-v8": "^4.1.2",
+    "@vue/eslint-config-prettier": "^10.2.0",
+    "@vue/eslint-config-typescript": "^14.7.0",
+    "@vue/test-utils": "^2.4.6",
+    "autoprefixer": "^10.4.27",
+    "combined-stream": "^1.0.8",
+    "concurrently": "^9.2.1",
+    "eslint": "^9.39.4",
+    "eslint-plugin-vue": "^10.8.0",
+    "form-data": "^4.0.5",
+    "globals": "^17.4.0",
+    "jsdom": "^29.0.1",
+    "json-server": "^1.0.0-beta.15",
+    "lodash": "4.17.21",
+    "prettier": "^3.8.1",
+    "typescript": "^5.9.3",
+    "vite-plugin-checker": "^0.12.0",
+    "vitest": "^4.1.2",
+    "vue-eslint-parser": "^10.4.0",
+    "vue-tsc": "^3.2.6"
+  },
+  "resolutions": {
+    "lodash": "4.17.21"
+  },
+  "overrides": {
+    "lodash": "4.17.21"
+  },
+  "engines": {
+    "node": "^28 || ^26 || ^24 || ^22.12",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1",
+    "pnpm": ">= 10.0.0"
+  }
+}
